@@ -14,4 +14,7 @@ Example repo for showcasing dark mode problem with React Native and IDNow VideoI
 
 ## Problem description
 
-IDnow SDK for Android enforces dark mode based on device settings even when app is not supporting dark mode, which causing inconsistent broken layout.
+IDnow SDK for Android enforces dark mode based on device settings even when app is not supporting dark mode, which causing inconsistent broken layout. See image below.
+
+
+![Broken colors](https://raw.githubusercontent.com/slavikdenis/react-native-android-idnow-dark-mode/main/idnow-android-forced-dark-mode.jpeg "IDnow broken colors")
