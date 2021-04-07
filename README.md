@@ -10,7 +10,7 @@ Example repo for showcasing dark mode problem with React Native and IDNow VideoI
 - run command `cd ReactNativeIDnow/`
 - run command `yarn install`
 - fill `IDNOW_*` constants in `App.tsx` accordingly
-- run command `yarn run android`
+- run command `yarn run android` on Android device with Dark Mode on
 
 ## Problem description
 
